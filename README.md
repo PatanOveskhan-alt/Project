@@ -1,4 +1,2 @@
 # Project
-## reads CSV file using pandas
-## converts date column into datetime format 
-## create mew columns like month and year
+## developed a sales data analysis project using Python and Matplotlib to visualize monthly trend,product contribution and category performance,enabling data driven business decisions
